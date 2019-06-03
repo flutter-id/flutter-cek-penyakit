@@ -20,6 +20,6 @@ Project aplikasi untuk membantu orang awam mencari info keadaan nya sekarang. In
 
 # Screenshot
 
-- [Splash Screen](https://github.com/riskikukuh/flutter-cek-penyakit/blob/master/assets/screenshots/splash_screen.png)
-- [Home Page](https://github.com/riskikukuh/flutter-cek-penyakit/blob/master/assets/screenshots/home.png)
-- [Result Page](https://github.com/riskikukuh/flutter-cek-penyakit/blob/master/assets/screenshots/result.png) 
+![Splash Screen](https://github.com/riskikukuh/flutter-cek-penyakit/blob/master/assets/screenshots/splash_screen.png)
+![Home Page](https://github.com/riskikukuh/flutter-cek-penyakit/blob/master/assets/screenshots/home.png)
+![Result Page](https://github.com/riskikukuh/flutter-cek-penyakit/blob/master/assets/screenshots/result.png) 
